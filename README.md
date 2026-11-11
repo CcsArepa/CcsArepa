@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://smartparkingudlap.netlify.app"><img src="https://img.shields.io/badge/Live%20Project-Smart%20Parking-1EA270?style=for-the-badge" alt="Smart Parking live demo" /></a>
-  <a href="https://www.linkedin.com/in/juan-diego-acosta-ojeda-a51282306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/juan-diego-acosta-ojeda/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/CcsArepa?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-111111?style=for-the-badge&logo=github" alt="Repositories" /></a>
 </p>
 
@@ -67,4 +67,4 @@
 
 ### Contact
 
-The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/juan-diego-acosta-ojeda-a51282306/).
+The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/juan-diego-acosta-ojeda/).
