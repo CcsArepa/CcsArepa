@@ -1,4 +1,4 @@
-<h1 align="center">Juan Acosta</h1>
+<h1 align="center">Juan Diego Acosta Ojeda</h1>
 
 <p align="center">
   <b>Computer Systems Engineering student at Universidad de las Américas Puebla (UDLAP)</b><br />
