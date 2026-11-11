@@ -1,12 +1,13 @@
 <h1 align="center">Juan Acosta</h1>
 
 <p align="center">
-  <b>Student at Universidad de las Américas Puebla (UDLAP)</b><br />
+  <b>Computer Systems Engineering student at Universidad de las Américas Puebla (UDLAP)</b><br />
   Building mobile and web apps with a focus on clean architecture and user experience.
 </p>
 
 <p align="center">
   <a href="https://smartparkingudlap.netlify.app"><img src="https://img.shields.io/badge/Live%20Project-Smart%20Parking-1EA270?style=for-the-badge" alt="Smart Parking live demo" /></a>
+  <a href="https://www.linkedin.com/in/juan-diego-acosta-ojeda-a51282306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/CcsArepa?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-111111?style=for-the-badge&logo=github" alt="Repositories" /></a>
 </p>
 
@@ -14,7 +15,7 @@
 
 ### About me
 
-- Currently studying at **UDLAP**, with coursework in data structures, databases, and human-computer interaction.
+- Currently pursuing a degree in **Computer Systems Engineering** at **UDLAP**, with coursework in data structures, databases, and human-computer interaction.
 - Interested in **mobile development**, **software architecture**, and **user-centered design**.
 - I enjoy turning everyday problems on campus into practical, well-designed apps.
 - Open to **internships** and collaboration on student projects.
@@ -66,4 +67,4 @@
 
 ### Contact
 
-Reach out through [GitHub](https://github.com/CcsArepa) or open an issue on any of my repositories.
+The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/juan-diego-acosta-ojeda-a51282306/).
